@@ -21,7 +21,7 @@ This project analyzes 20,000 healthcare claims records to understand claim volum
 
 ## Dashboard
 An interactive dashboard was created to provide a clear overview of healthcare claims and operations performance.
-![Healthcare Claims & Operations Analytics Dashboard]!(HealthCare Analytics dashboard)
+![Healthcare Claims & Operations Analytics Dashboard] (HealthCare Analytics dashboard)
 ## Key KPIs
 - Total Claims: 20,000
 - Total Billed Amount: ₹7,95,94,782
